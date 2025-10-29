@@ -1,4 +1,3 @@
-// app/page.tsx
 import { ProductGrid } from '../app/components/product/ProductGrid';
 import { ProductFilters } from '../app/components/filter/ProductFilters';
 import { Header } from '../app/components/layout/Header';

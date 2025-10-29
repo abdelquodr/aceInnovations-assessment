@@ -1,4 +1,3 @@
-// components/filters/ProductFilters.tsx
 'use client';
 
 import React from 'react';

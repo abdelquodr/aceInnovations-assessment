@@ -1,4 +1,3 @@
-// components/product/ProductModal.tsx
 'use client';
 
 import React, { useEffect } from 'react';

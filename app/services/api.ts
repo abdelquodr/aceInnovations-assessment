@@ -1,4 +1,3 @@
-// services/api.ts
 import { Product } from '../types';
 
 const API_BASE = process.env.NEXT_PUBLIC_BASE_API_URL;

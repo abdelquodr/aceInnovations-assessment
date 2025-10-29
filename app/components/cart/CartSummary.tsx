@@ -1,4 +1,3 @@
-// components/cart/CartSummary.tsx
 'use client';
 
 import React, { useState } from 'react';

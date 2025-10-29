@@ -1,4 +1,3 @@
-// components/product/ProductGrid.tsx
 'use client';
 
 import React from 'react';
